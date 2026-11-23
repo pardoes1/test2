@@ -1,0 +1,8 @@
+{
+  "name": "lan-screen-share",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Consent-based WebRTC screen sharing on a local network",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
